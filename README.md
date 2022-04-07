@@ -2,6 +2,7 @@
 # Setup 
 
 ``` sh
-# pip install Django
+# pip install Django ipython
 # python manage.py shell
+>>> %run examples/...
 ```
